@@ -1,4 +1,4 @@
-// Username: ahmadputrafirdaus
+// Username: https_firdaus
 
 /*
 Goal tahun ini:
